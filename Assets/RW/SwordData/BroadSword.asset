@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0891293fa1da41a429af097c84c1c1dd, type: 3}
+  m_Name: BroadSword
+  m_EditorClassIdentifier: 
+  _name: BigBoy
+  _description: For big boys
+  _icon: {fileID: 21300000, guid: 4975e12abe4187a46924c269a3a788f1, type: 3}
+  _goldCost: 200
+  _attackDamage: 120
